@@ -1,4 +1,4 @@
-Western Governors University project using <b>Spring Framework application with an HTML front-end and a Java backend</b>
+<b>Western Governors University project using Spring Framework application with an HTML front-end and a Java backend</b>
 </br>
 </br>
 Introduction:</br>
