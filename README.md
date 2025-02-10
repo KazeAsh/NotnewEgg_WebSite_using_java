@@ -7,11 +7,13 @@ The skills you showcase in your completed application will be useful in respondi
 </br>
 For this project, you will use the Integrated Development Environment (IDE) link in the web links section of this assessment to install the IDE, IntelliJ IDEA (Ultimate Edition). You will sign up for a free student license using your WGU.edu email address. Please see the “IntelliJ Ultimate Edition Instructions” attachment for instructions on how to do this. You will also use the GitLab link in the web links section to obtain the template code for this project, please review the “GitLab How-To” web link prior to starting your work. Next, you will clone your GitLab repository and open it in IntelliJ IDEA (Ultimate Edition).
 </br>
+</br>
 Scenario:</br>
 You are working for a company that licenses and customizes a software application to keep track of inventory in stores. Your job as a software developer is to customize this application to meet a specific customer’s needs. You will choose any type of customer you would like, but it must sell a product composed of parts. An example of products versus parts would be a customer that’s a bicycle shop: a bicycle is a product, and a set of two matching wheels is a part (do not use the bicycle shop example in your project).
 </br>
 </br>
 You have been provided with a Spring application with a Java backend, a generic HTML user interface to use in the design and development of the system, and a UML class diagram to assist you in your work (see the attached “UML Class Diagram”). You can find a user guide to help assist with the inventory management application in the attachments (see “Shop Inventory Management User Guide”).
+</br>
 </br>
 Requirements:</br>
 Your submission must be your own original work. You may not use or reference other students’ submissions for this task. For more information please review our Academic Authenticity policies and the Professionalism and Conduct Expectations for College of Information Technology Students.
@@ -23,6 +25,7 @@ Tasks may not be submitted as cloud links, such as links to Google Docs, Google 
 Note: External plugins and libraries other than those specified in this task are not allowed.
 </br>
 Note: You cannot use a bicycle shop as a customer for your submission.
+</br>
 </br>
 A.  Create your subgroup and project by logging into GitLab using the web link provided and using the “GitLab How-To” web link, and do the following:
 </br>
