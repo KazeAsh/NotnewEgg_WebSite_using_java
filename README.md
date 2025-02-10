@@ -1,7 +1,7 @@
 WGU Project
-
+</br>
 Introduction:</br>
-Throughout your career in software design and development, you will be asked to create, customize, and maintain applications with various features and functionality based on business requirements. For this assessment, you will customize a Spring Framework application with an HTML front-end and a Java backend using the solution statements provided in the requirements section of this assessment.
+Throughout your career in software design and development, you will be asked to create, customize, and maintain applications with various features and functionality based on business requirements. For this assessment, you will customize a Spring Framework application with an HTML front-end and a Java backend using the solution statements provided in the requirements section of this assessment.</br>
 </br>
 The skills you showcase in your completed application will be useful in responding to technical interview questions for future employment. This application may also be added to your portfolio to show to future employers.
 </br>
@@ -71,17 +71,18 @@ G.  Modify the parts to track maximum and minimum inventory by doing the followi
 •  Rename the file the persistent storage is saved to.</br>
 •  Modify the code to enforce that the inventory is between or at the minimum and maximum value.</br>
 </br>
-
+</br>
 H.  Add validation for between or at the maximum and minimum fields. The validation must include the following:</br>
 •  Display error messages for low inventory when adding and updating parts if the inventory is less than the minimum number of parts.</br>
 •  Display error messages for low inventory when adding and updating products lowers the part inventory below the minimum.</br>
 •  Display error messages when adding and updating parts if the inventory is greater than the maximum.</br>
 
-
+</br>
 I.  Add at least two unit tests for the maximum and minimum fields to the PartTest class in the test package.
 </br>
-
+</br>
 J.  Remove the class files for any unused validators in order to clean your code.
 </br>
-
+</br>
 K.  Demonstrate professional communication in the content and presentation of your submission.</br>
+</br>
